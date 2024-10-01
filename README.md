@@ -1,16 +1,18 @@
-## Hi there 👋
+Olá! 👋
 
-<!--
-**alpessoa/alpessoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é André Pessoa. 🌱 Estou aprendendo Python para análise de dados e estou em transição de carreira, após 14 anos na área bancária. Atualmente, meu foco é desenvolver minhas habilidades na ciência de dados.
 
-Here are some ideas to get you started:
+📚 Formação:
+- Gestão de Tecnologia da Informação na Cubos Academy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Para me encontrar:
+- [LinkedIn](https://www.linkedin.com/in/andre-pessoaa/)  
+
+🔧 Habilidades:
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+📫 Contato: andre.pessoa92@hotmail.com

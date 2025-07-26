@@ -1,19 +1,32 @@
-Olá! 👋
+# 👋 Olá! Sou o André Pessoa
 
-Meu nome é André Pessoa. 🌱 Estou aprendendo Python para análise de dados e estou em transição de carreira, após 14 anos na área bancária. Atualmente, meu foco é desenvolver minhas habilidades na ciência de dados.
+Sou estudante de **Gestão da Tecnologia da Informação (CESAR School)** e formado em **Análise e Desenvolvimento de Sistemas (Estácio)**.  
+Após 15 anos de experiência no setor bancário — com foco em gestão de indicadores e performance — estou em **transição para a área de Ciência de Dados**.
 
-📚 Formação:
-- Gestão de Tecnologia da Informação na CESAR School 3/5
-- Analise e Desenvolvimento de Sistemas na Estacio
+📊 Hoje, meu foco é transformar dados em decisões. Acredito que boas análises começam com boas perguntas.
 
-💻 Para me encontrar:
-- [LinkedIn](https://www.linkedin.com/in/andre-pessoaa/)  
+---
 
-🔧 Habilidades:
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
+## 🧠 Habilidades
 
-📫 Contato: andre.pessoa92@hotmail.com
+- **Python** (pandas, numpy, matplotlib, seaborn)
+- **Machine Learning** (scikit-learn, validação cruzada, modelagem supervisionada)
+- **Análise de dados** (EDA, visualização, storytelling)
+- Excel avançado
+- SQL básico
+
+---
+
+## 📚 Formação Acadêmica
+
+🎓 Gestão da Tecnologia da Informação – CESAR School (2026)  
+🎓 Análise e Desenvolvimento de Sistemas – Estácio (2024)  
+🎓 Ciências Contábeis – FOCCA (2014)
+
+---
+
+## 🤝 Vamos conversar?
+
+📧 andre.pessoa92@hotmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/andre-pessoaa)  
+

@@ -12,8 +12,8 @@ Após 15 anos de experiência no setor bancário — com foco em gestão de indi
 - **Python** (pandas, numpy, matplotlib, seaborn)
 - **Machine Learning** (scikit-learn, validação cruzada, modelagem supervisionada)
 - **Análise de dados** (EDA, visualização, storytelling)
-- Excel avançado
-- SQL básico
+- **Excel Avançado**
+- **SQL Básico**
 
 ---
 
@@ -21,12 +21,18 @@ Após 15 anos de experiência no setor bancário — com foco em gestão de indi
 
 🎓 Gestão da Tecnologia da Informação – CESAR School (2026)  
 🎓 Análise e Desenvolvimento de Sistemas – Estácio (2024)  
-🎓 Ciências Contábeis – FOCCA (2014)
+🎓 Ciências Contábeis – FOCCA (2014)  
+
+---
+
+## 📜 Certificações
+
+- **Ciência de Dados** – Atlântico Avanti + Softex (80h) – 2025  
+  [Ver certificado](https://atlanticoavanti.ensinio.com/c/1587281754915966)
 
 ---
 
 ## 🤝 Vamos conversar?
 
-📧 andre.pessoa92@hotmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/andre-pessoaa)  
-
+📧 **andre.pessoa92@hotmail.com**  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/andre-pessoaa)

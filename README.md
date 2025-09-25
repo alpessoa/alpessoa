@@ -1,23 +1,49 @@
-# 👋 Olá! Sou o André Pessoa
+# 👋 Olá, eu sou o André Pessoa  
 
-Sou estudante de **Gestão da Tecnologia da Informação (CESAR School)** e formado em **Análise e Desenvolvimento de Sistemas (Estácio)**.  
-Após 15 anos de experiência no setor bancário — com foco em gestão de indicadores e performance — estou em **transição para a área de Ciência de Dados**.
+🎓 Estudante de **Gestão da Tecnologia da Informação – CESAR School (2026)**  
+🎓 Formado em **Análise e Desenvolvimento de Sistemas – Estácio (2024)**  
+🎓 Bacharel em **Ciências Contábeis – FOCCA (2014)**  
 
-📊 Hoje, meu foco é transformar dados em decisões. Acredito que boas análises começam com boas perguntas.
-
----
-
-## 🧠 Habilidades
-
-- **Python** (pandas, numpy, matplotlib, seaborn)
-- **Machine Learning** (scikit-learn, validação cruzada, modelagem supervisionada)
-- **Análise de dados** (EDA, visualização, storytelling)
-- **Excel Avançado**
-- **SQL Básico**
+💼 Após 15 anos de experiência no setor bancário, com foco em **gestão de indicadores e performance**, estou em **transição para a área de Ciência de Dados**.  
+📊 Meu objetivo é transformar **dados em decisões estratégicas**, aplicando técnicas de análise, estatística e aprendizado de máquina.  
 
 ---
 
-## 📚 Formação Acadêmica
+## 🧠 Habilidades  
+
+- **Python** (pandas, numpy, matplotlib, seaborn)  
+- **Machine Learning** (scikit-learn, regressão, classificação, validação cruzada)  
+- **Análise de Dados** (EDA, visualização, storytelling)  
+- **SQL** (consultas, modelagem básica)  
+- **Excel Avançado**  
+
+---
+
+## 📜 Certificações  
+
+- **Imersão em Análise de Dados com Python – F3loc (13h) – 2024**  
+- **Fundamentos de Probabilidade e Estatística para Ciência de Dados – USP (30h) – 2025**  
+- **SQL – Introdução a Banco de Dados – Growdev (10h) – 2025**  
+- **Ciência de Dados – Atlântico Avanti + Softex (80h) – 2025**  
+  
+---
+
+## 🚀 Projetos em Destaque  
+
+- 🍽️ **oMenu — Cardápio Digital Interativo com Acessibilidade** 
+  Projeto acadêmico para restaurantes com foco em **acessibilidade para pessoas cegas**.  
+  - 📌 Minhas contribuições: **gerenciamento do projeto, integração da equipe, entrevistas presenciais com usuários finais e apresentação do sistema**.  
+
+- 📊 **Orange Quality Prediction**  
+  Projeto desenvolvido no **Bootcamp Atlântico Avanti**, utilizando Machine Learning para prever a qualidade de laranjas.  
+  - Técnicas: regressão logística, métricas de avaliação e análise exploratória de dados.  
+
+- 📚 **Estudos em Estatística, SQL e Machine Learning**  
+  Repositórios de exercícios e experimentos práticos em **SQL**, **probabilidade** e **modelagem preditiva**.  
+
+---
+
+## 📚 Formação Acadêmica  
 
 🎓 Gestão da Tecnologia da Informação – CESAR School (2026)  
 🎓 Análise e Desenvolvimento de Sistemas – Estácio (2024)  
@@ -25,14 +51,7 @@ Após 15 anos de experiência no setor bancário — com foco em gestão de indi
 
 ---
 
-## 📜 Certificações
-
-- **Ciência de Dados** – Atlântico Avanti + Softex (80h) – 2025  
-  [Ver certificado](https://atlanticoavanti.ensinio.com/c/1587281754915966)
-
----
-
-## 🤝 Vamos conversar?
+## 🤝 Vamos conversar?  
 
 📧 **andre.pessoa92@hotmail.com**  
-🔗 [**LinkedIn**](https://www.linkedin.com/in/andre-pessoaa)
+🔗 [**LinkedIn**](https://www.linkedin.com/in/andre-pessoaa)  

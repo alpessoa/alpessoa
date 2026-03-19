@@ -46,7 +46,7 @@ Projeto de Machine Learning para previsão da qualidade de laranjas, desenvolvid
 - Avaliação de métricas de performance  
 - Análise exploratória de dados  
 
-🔗 [adicione aqui o link do repositório]  
+🔗 https://github.com/alpessoa/qualidade-laranjas-classificacao 
 
 ---
 

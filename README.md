@@ -32,7 +32,7 @@
 
 ## 🚀 Projetos em Destaque  
 
-### 🏠 Jornada Habitacional  
+### 🏠 Caixinha Habitacional  
 Análise de dados voltada à compreensão da jornada de acesso à moradia, com foco em identificar gargalos, padrões e oportunidades de melhoria no processo habitacional.  
 
 🔗 https://github.com/alpessoa/jornada-habitacional  
